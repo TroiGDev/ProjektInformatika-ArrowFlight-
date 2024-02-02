@@ -1,6 +1,6 @@
 # Poročilo
 ## Poglavje 1
 
-![](Slike%20v%20PNG/table%201-1.png)
+![](Slike%20v%20PNG/spremenljivke.png)
 
 ## Poglavje 2
