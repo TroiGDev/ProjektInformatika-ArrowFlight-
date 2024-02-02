@@ -9,35 +9,35 @@ Igrica bo simulacija Paintball bitke. Imela bo samostojni offline način, v kate
 
 Igrica bo zgrajena iz 4 glavnih scen. Prva bo namenjena izbiri offline/online načina, pri izbiri offline/singleplayer bo naložena offline scena, pri izbiri online/multiplayer pa v sceno, kjer bo lahko igralec naredil igro z lastno kodo ali pa se pridružil z kodo že narejene igre, ob pridružitvi/kreaciji se bo igralec naložil v novo online sceno, kjer mu bo naključno določena ekipa, s katero se bo bojeval proti drugi ekipi.
 
-## Koraki do rešitve
-Unity je zelo dober program ki omogoča uporabo drugih podprogramov, ki niso naloženi v navaden Začetni Unity projekt. v temu projektu sem uporabil:
-TMP pro- za boljše input in text sisteme
-Joystick asset pack- za mobilne input kontrole
-URP universal render pipeline- za boljšo svetlobo
-DataPersistance sistem- ki sem ga ustvaril v drugem projektu za shranjevanje podatkov na napravi in sem ga za to uporabil tudi tokrat.
-Photon Pun- za online večigralski način, ki je zelo pogost v Unity igricah z večigralskim načinom.
+## Koraki do rešitve <br>
+Unity je zelo dober program ki omogoča uporabo drugih podprogramov, ki niso naloženi v navaden Začetni Unity projekt. v temu projektu sem uporabil: <br>
+TMP pro- za boljše input in text sisteme <br>
+Joystick asset pack- za mobilne input kontrole <br>
+URP universal render pipeline- za boljšo svetlobo <br>
+DataPersistance sistem- ki sem ga ustvaril v drugem projektu za shranjevanje podatkov na napravi in sem ga za to uporabil tudi tokrat <br>
+Photon Pun- za online večigralski način, ki je zelo pogost v Unity igricah z večigralskim načinom. <br>
 
-### Česa še ne vem:
--premikanje figure v večigralskem načinu
--usmerjanje figure v večigralskem nalinu
--streljanje v večigralskem načinu
--slike namesto default oblik, vizualne spremembe/poboljšave pri končnem izdelku
--ekipe v večigralskem načinu
--način izgube/zmage
--pošasti
--pošasti v večigralskem načinu
+### Česa še ne vem: <br>
+-premikanje figure v večigralskem načinu <br>
+-usmerjanje figure v večigralskem nalinu <br>
+-streljanje v večigralskem načinu <br>
+-slike namesto default oblik, vizualne spremembe/poboljšave pri končnem izdelku <br>
+-ekipe v večigralskem načinu <br>
+-način izgube/zmage <br>
+-pošasti <br>
+-pošasti v večigralskem načinu <br>
 
 
-### Kaj že vem / sem izdelal:
--vse 4 glavne scene in prehod med njimi
--premikanje figure na pc
--usmerjanje figure na pc
--streljanje na pc
--premikanje figure na mobile
--usmerjanje figure na mobile
--streljanje na mobile
--vizualni effekti pri streljanju in splošni sceni
--avtomatski preklop med mobile in pc kontrolami
+### Kaj že vem / sem izdelal: <br>
+-vse 4 glavne scene in prehod med njimi <br>
+-premikanje figure na pc <br>
+-usmerjanje figure na pc <br>
+-streljanje na pc <br>
+-premikanje figure na mobile <br>
+-usmerjanje figure na mobile <br>
+-streljanje na mobile <br>
+-vizualni effekti pri streljanju in splošni sceni <br>
+-avtomatski preklop med mobile in pc  <br>
 
 ## Dokazila o naučenem
 
