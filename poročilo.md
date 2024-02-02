@@ -50,10 +50,10 @@ Koncept zaporednosti izvajanja ukazov: <br>
 Koncept vejitve (If stavek): <br>
 ![](Slike%20v%20PNG/vejedogodkov.png)
 
+  -to je osnovna Unity datoteka ki ima Start() in Update() funkcijo. Start() se izvaja samo prvi okvir (frame), Update() pa vsak naslednji. Ta del programa najprej ugotovi, ali igra teče na mobilni napravi ali računalniku z miško in tipkovnico in nato nadaljuje z izračunom smeri v katero mora biti obrnjena figura. Če je pravilna/nepravilna (boolean) vrednost IsMobile, v katero smo nastavili prav/napačno v Start(), pravilna pomeni da igramo na telefonu, zato pri izračunu, ki se mora dogajaati vsak frame in je zato v Update(), ne uporabljamo pozicijo miške ampak input Joystick, drugače pa, kadar je trditev, da igramo na mobilni napravi napačna, uporabimo pozicijo miške.
+
 Koncept zanke: <br>
 ![](Slike%20v%20PNG/.png)
-
-  -to je osnovna Unity datoteka ki ima Start() in Update() funkcijo. Start() se izvaja samo prvi okvir (frame), Update() pa vsak naslednji. Ta del programa najprej ugotovi, ali igra teče na mobilni napravi ali računalniku z miško in tipkovnico in nato nadaljuje z izračunom smeri v katero mora biti obrnjena figura. Če je pravilna/nepravilna (boolean) vrednost IsMobile, v katero smo nastavili prav/napačno v Start(), pravilna pomeni da igramo na telefonu, zato pri izračunu, ki se mora dogajaati vsak frame in je zato v Update(), ne uporabljamo pozicijo miške ampak input Joystick, drugače pa, kadar je trditev, da igramo na mobilni napravi napačna, uporabimo pozicijo miške.
 
 Dogodkovno programiranje: <br>
 ![](Slike%20v%20PNG/interaktivnigumbi.png)
