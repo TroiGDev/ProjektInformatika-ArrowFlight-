@@ -25,6 +25,7 @@ Photon Pun- za online večigralski način, ki je zelo pogost v Unity igricah z v
 -ekipe v večigralskem načinu <br>
 -način izgube/zmage <br>
 -pošasti v večigralskem načinu <br>
+-shranjevanje podatkov na napravi
 
 
 ### Kaj že vem / sem izdelal: <br>
