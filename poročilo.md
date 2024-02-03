@@ -81,7 +81,10 @@ Koncept podprograma / funkcije: <br>
   -to je del programa, ki omogoča streljanje metkov iz figure, v njej je poleg drugih zadev tudi funkcija Shoot(), ki ustvari figuro metka in tej figuri nastavi določeno hitrost v neko določeno smer.
 
 Tabelarična spremenljvka: <br>
-![](Slike%20v%20PNG/.png)
+![](Slike%20v%20PNG/seznamspremenljivka.png)
+
+  -to je del kode , ki pošastim izbere naključno barvo izmed prednastavljenih barv in jo uporabi na svoji figuri, to je vizualni efekt ki jim doda raznolikost v lastnostih.
+
 
 ## Zaključek
 
