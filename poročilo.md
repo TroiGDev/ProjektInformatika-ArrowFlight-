@@ -24,11 +24,11 @@ Photon Pun- za online večigralski način, ki je zelo pogost v Unity igricah z v
 -slike namesto default oblik, vizualne spremembe/poboljšave pri končnem izdelku <br>
 -ekipe v večigralskem načinu <br>
 -način izgube/zmage <br>
--pošasti <br>
 -pošasti v večigralskem načinu <br>
 
 
 ### Kaj že vem / sem izdelal: <br>
+-pošasti <br>
 -vse 4 glavne scene in prehod med njimi <br>
 -premikanje figure na pc <br>
 -usmerjanje figure na pc <br>
