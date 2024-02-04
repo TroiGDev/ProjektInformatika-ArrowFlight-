@@ -39,6 +39,7 @@ Photon Pun- za online večigralski način, ki je zelo pogost v Unity igricah z v
 -streljanje na mobile <br>
 -vizualni effekti pri streljanju in splošni sceni <br>
 -avtomatski preklop med mobile in pc  <br>
+-sistem omejenega naboja in življenskih točk
 
 ## Dokazila o naučenem
 
