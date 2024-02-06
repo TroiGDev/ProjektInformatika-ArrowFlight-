@@ -2,7 +2,7 @@
 Projekt za informatiko
 
 Ker GitHub  ne podpira večjih datotek je celotna igrica lahko nameščena preko spletne strani Itch.io, z katero imam že izkušnje za objavljanje igric itd.<br>
-[Stran z možnostjo namestitve igre za Windows ali Android](https://troidev.itch.io)
+[Stran z možnostjo namestitve igre za Windows ali Android](https://troidev.itch.io)<br>
 poročilo je v "poročilo.md"<br>
 vse scripte/koda pa je v datoteki "koda"<br>
 
