@@ -1,7 +1,9 @@
 # ProjektInformatika
 Projekt za informatiko
 
-## poročilo v "poročilo.md"
+Ker GitHub  ne podpira večjih datotek je celotna igrica lahko nameščena preko spletne strani Itch.io, z katero imam že izkušnje za objavljanje igric itd.<br>
+poročilo je v "poročilo.md"<br>
+vse scripte/koda pa je v datoteki "koda"<br>
 
 najnovejša zgrajena verzija APK (nekoliko delujoča): 0.1.3<br>
 najnovejša zgrajena verzija PC (nekoliko delujoča): 0.1.1
