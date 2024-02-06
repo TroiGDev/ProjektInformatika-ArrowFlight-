@@ -2,7 +2,7 @@
 Projekt za informatiko
 
 Ker GitHub  ne podpira večjih datotek je celotna igrica lahko nameščena preko spletne strani Itch.io, z katero imam že izkušnje za objavljanje igric itd.<br>
-[Stran z možnostjo namestitve igre za Windows ali Android]([https://troidev.itch.io](https://troidev.itch.io/canvaschaos-projekt-pri-pouku-informatike?secret=gHY2x3hgfDHAGKtiZSh9xeQc))<br>
+[Stran z možnostjo namestitve igre za Windows ali Android](https%3A%2F%2Ftroidev.itch.io%2Fcanvaschaos-projekt-pri-pouku-informatike%3Fsecret%3DgHY2x3hgfDHAGKtiZSh9xeQcto)<br>
 poročilo je v "poročilo.md"<br>
 vse scripte/koda pa je v datoteki "koda"<br>
 
