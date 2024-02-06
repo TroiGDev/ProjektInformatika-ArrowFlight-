@@ -1,7 +1,7 @@
 # Poročilo
 ## Opis naloge
 
-Za svoj projekt bom naredil mobilno/računalniško igrico v razvijalnem stroju Unity GameEngine. V Unity-ju imam že kar nekaj izkušenj in znanja, ki bi ga rad nadgradil z rednim delom in uporabo.
+Za svoj projekt bom naredil mobilno/računalniško igrico v razvijalnem stroju Unity GameEngine z uporabo jezika C#. V Unity-ju imam že kar nekaj izkušenj in znanja, ki bi ga rad nadgradil z rednim delom in uporabo.
 
 Igrica bo simulacija Paintball bitke. Imela bo samostojni offline način, v katerem bo cilj preživeti čim dlje proti računalniško-kontroliranimi pošastmi, in večigralski online način, kjer bo cilj premagati nasprotnika.
 
