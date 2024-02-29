@@ -44,35 +44,31 @@ Photon Pun- za online večigralski način, ki je zelo pogost v Unity igricah z v
 ## Dokazila o naučenem
 
 Koncept zaporednosti izvajanja ukazov: <br>
-![](Slike%20v%20PNG/zaporedjedogodkov.png)
+![](Slike%20v%20PNG/zaporedje.png)
 
   -to je del programa, ki izračuna kot in usmeri figuro proti miški, kadar igralec igra na računalniku.
    Vrstni red je tu pomemben za pravi izračun kota.
 
 Koncept vejitve (If stavek): <br>
-![](Slike%20v%20PNG/vejedogodkov.png)
+![](Slike%20v%20PNG/vejitev.png)
 
   -to je osnovna Unity datoteka ki ima Start() in Update() funkcijo. Start() se izvaja samo prvi okvir (frame), Update() pa vsak naslednji. Ta del programa najprej ugotovi, ali igra teče na mobilni napravi ali računalniku z miško in tipkovnico in nato nadaljuje z izračunom smeri v katero mora biti obrnjena figura. Če je pravilna/nepravilna (boolean) vrednost IsMobile, v katero smo nastavili prav/napačno v Start(), pravilna pomeni da igramo na telefonu, zato pri izračunu, ki se mora dogajaati vsak frame in je zato v Update(), ne uporabljamo pozicijo miške ampak input Joystick, drugače pa, kadar je trditev, da igramo na mobilni napravi napačna, uporabimo pozicijo miške.
 
 Koncept zanke: <br>
-![](Slike%20v%20PNG/.png)
+![](Slike%20v%20PNG/zanka.png)
 
 Dogodkovno programiranje: <br>
-![](Slike%20v%20PNG/interaktivnigumbi.png)
-
-  -to je eden izmed delov figure, ki jo uporabljamo kot gumb, pri katerem se ob pritisku izvede funkcija ki smo jo podali v On Click z string parametrom "LobbySetup".
-
-![](Slike%20v%20PNG/buttonclickevent.png)
+![](Slike%20v%20PNG/dogodkovnoprogramiranje.png)
 
   -v našem primeru je to funckija LoadNewScene(), ki nam naloži sceno, katere ime je enako kot parameter, ki smo ga nastavili v On Click klicu funckije.
 
 Branje in izpisovanje: <br>
-![](Slike%20v%20PNG/inputdogodki.png)
+![](Slike%20v%20PNG/branjeinizpisovanje.png)
 
   -to je datoteka, ki je zadolžena za premikanje figure. Ker so možnosti vrste inputa drugačne na mobilnih napravah in tipkovnici, moramo spet razdeliti program na 2 dela, mobilnega in ne mobilnega. V ne mobilnem/pri uporabi tipkovnice vzamemo tipke "W", "A", "S" in "D" kot input in v določeno smer premaknemo figuro z neko hitrostjo, na mobilni napravi pa to naredimo z drugim input Joystickom.
 
 Koncept spremenljivke: <br>
-![](Slike%20v%20PNG/spremenljivke.png)
+![](Slike%20v%20PNG/spremenljivka.png)
 
   -to je del programa, kjer ustvarimo spremenljivke. V tej sliki so vidne spremenljivke IsMobile, katero uporabimo za ugotovitev, ali smo na mobilni napravi ali računalniku, Rigidbody2D, ki je del figure, ki omogoča delovanje Unity-jevih vgrajenih fizik na figuro, float vrednost speed, za katero premaknemo figuro pri premikanju, Canvas, figura, ki je vedno v ospredju na ekranu, ter Joystick ,ki je način mobilnega inputa. Pomembno je vedeti, da Unity omogoča parent/child hierarhijo, kjer je lako več figur del ene figure, s tem je pozicija child figure relativna na parent figuro in ne na sceno/svet, tako je Joystick del Canvas figure in je s tem vedno na istem mestu na ekranu.
 
@@ -82,7 +78,7 @@ Koncept podprograma / funkcije: <br>
   -to je del programa, ki omogoča streljanje metkov iz figure, v njej je poleg drugih zadev tudi funkcija Shoot(), ki ustvari figuro metka in tej figuri nastavi določeno hitrost v neko določeno smer.
 
 Tabelarična spremenljvka: <br>
-![](Slike%20v%20PNG/seznamspremenljivka.png)
+![](Slike%20v%20PNG/seznam.png)
 
   -to je del kode , ki pošastim izbere naključno barvo izmed prednastavljenih barv in jo uporabi na svoji figuri, to je vizualni efekt ki jim doda raznolikost v lastnostih.
 
