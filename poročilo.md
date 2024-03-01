@@ -20,14 +20,14 @@ DataPersistance sistem- ki sem ga ustvaril v drugem projektu za shranjevanje pod
 
 
 ### Kaj že vem / sem izdelal: <br>
--glavna scena<b>
--scena z nivoji<b>
--3 posebni nivoji<b>
--tarče<b>
--premikanje/teleportacija preko touch kontrol<b>
--shranjevanje podatkov<b>
--zvočni efekti<b>
--končna olepšava<b>
+-glavna scena<br>
+-scena z nivoji<br>
+-3 posebni nivoji<br>
+-tarče<br>
+-premikanje/teleportacija preko touch kontrol<br>
+-shranjevanje podatkov<br>
+-zvočni efekti<br>
+-končna olepšava<br>
 
 ## Dokazila o naučenem
 
