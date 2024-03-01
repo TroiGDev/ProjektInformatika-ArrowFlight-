@@ -6,5 +6,4 @@ Ker GitHub  ne podpira večjih datotek je celotna igrica lahko nameščena preko
 poročilo je v "poročilo.md"<br>
 vse scripte/koda pa je v datoteki "koda"<br>
 
-najnovejša zgrajena verzija APK (nekoliko delujoča): 0.1.8<br>
-najnovejša zgrajena verzija Windows (nekoliko delujoča): 0.1.8
+najnovejša zgrajena verzija APK (nekoliko delujoča): 0.1.12
